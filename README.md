@@ -7,5 +7,6 @@ This is a test for a demo
 ### this is another header
 
 #### this is yet another header!
-I like this change
-This is a really good thought too!
+I like this change    
+This is a really good thought too! 
+I am cool
